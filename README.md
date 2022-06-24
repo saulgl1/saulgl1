@@ -1,10 +1,10 @@
 # Hello there I'm Saul Leon🖖
 
-- 🔭 I’m currently working on Front-end technologies <br>
+- 🔭 I’m currently working on Web applications <br>
 - 🌱 I’m currently learning Microservices with Spring Cloud <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png"  height="13" width="16">  <br>
 - 👯 I’m looking to collaborate on Web Projects <br>
-- ⚡️ Fun-Fact: Constantly and involuntarily making bad jokes  <br>
-- 💬 Ask me about any project idea on mind! <br>
+- ⚡️ Fun-Fact: Constantly and involuntarily making bad jokes <br>
+- 💬 Ask me anything, specially if it's about DevOps or Tensors <br>
 
 
 <h2 align="center">Technologies & Skills 🔧</h2>
